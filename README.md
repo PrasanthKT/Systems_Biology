@@ -5,3 +5,5 @@
 ### Assignment_2: Chi-Square test calculation, GWAS and eQTL analysis
 
 ### Assignment_3: Weighted Gene Co-Expression Network Analysis
+
+### Assignment_4 : Gene Set Enrichment Analysis
